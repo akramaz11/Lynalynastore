@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Lyna Boutique</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
-  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/6a2db7a1bc.js" crossorigin="anonymous"></script>
   <style>
     body {
       margin: 0;
@@ -100,8 +100,5 @@
       © 2025 Lyna Boutique. All rights reserved.
     </div>
   </div>
-
-  <!-- Font Awesome for icons -->
-  <script src="https://kit.fontawesome.com/6a2db7a1bc.js" crossorigin="anonymous"></script>
 </body>
 </html>
